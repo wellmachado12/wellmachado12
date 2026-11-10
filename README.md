@@ -25,3 +25,9 @@ Sou analista de dados e desenvolvedor, apaixonado por transformar dados brutos e
 
 * [LinkedIn](www.linkedin.com/in/wellington-brum-machado)
 * [E-mail](well.machado1995@gmail.com)
+
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wellmachado12&show_icons=true&theme=dark)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wellmachado12&layout=compact&theme=dark)
