@@ -28,6 +28,7 @@ Sou analista de dados e desenvolvedor, apaixonado por transformar dados brutos e
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.pw/api?username=wellmachado12&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.pw/api/top-langs/?username=wellmachado12&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wellmachado12&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellmachado12&layout=compact&theme=dark" alt="Top Langs" />
+</div>
