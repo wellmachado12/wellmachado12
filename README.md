@@ -18,6 +18,7 @@ Sou analista de dados e desenvolvedor, apaixonado por transformar dados brutos e
 * **[Previsão de Churn e Risco de Crédito](https://github.com/wellmachado12/credito-risco-inadimplencia)** – Solução end-to-end de inteligência de dados utilizando PySpark, Pandas e Random Forest Classifier, integrada a um dashboard interativo no Looker Studio.
 * **[Pipeline de Dados Automatizado](https://github.com/wellmachado12/pipeline-python-bigquery-ebac)** – Pipeline em Python para extração e limpeza de datasets globais do BigQuery, exportando dados estruturados em CSV e Parquet.
 * **[Dashboard interativo com Plotly](https://github.com/wellmachado12/projeto-dashboard-ebac-plotly)** – Projeto de análise de dados e dashboard interativo com Dash e Plotly.
+* **[Pipeline End-to-End de E-commerce](https://github.com/wellmachado12/dashboard-vendas-supply-chain.git)** – Pipeline End-to-End de Data Analytics: ETL em Python, modelagem Star Schema no MySQL e Dashboard Executivo de Vendas e Eficiência Logística (Supply Chain) no Power BI com DAX.
 
 ---
 
